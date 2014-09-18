@@ -3,3 +3,4 @@ master change 1
 branch change 1
 master change 2
 master change 3
+conflicting branch change
